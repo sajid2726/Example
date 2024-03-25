@@ -1,1 +1,2 @@
 This is first commit
+This line updated from ec2 instance
