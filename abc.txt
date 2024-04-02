@@ -2,3 +2,6 @@ This is first commit
 
 This is second line to cheeck
 this is third line to check
+
+This line updated from ec2 instance
+
